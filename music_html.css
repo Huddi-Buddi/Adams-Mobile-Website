@@ -67,7 +67,7 @@ body { background-color:#C8C8C8; background: linear-gradient(to bottom, #2D2D2D,
 .textstyle10 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
 #cell_1bf3c30c {  }
 #audio_3f2be38f { vertical-align: bottom; border-radius: 10px; position:relative; display: inline-block; width:165px; height:50px; background:none;  }
-#table_63fc54d8 { vertical-align: bottom; position:relative; display: inline-table; width:100%; height:50px; background:none; table-layout: fixed;  }
+#table_63fc54d8 { vertical-align: bottom; position:relative; display: inline-table; width:100%; height:25px; background:none; table-layout: fixed;  }
 #table_10b96d19 { box-sizing: border-box; vertical-align: bottom; border-radius: 10px; position:relative; display: inline-table; width:95%; height:170px; background-color:#FFFFFF; border: 0px solid #8C8C8C; table-layout: fixed;  }
 #cell_62259c78 {  }
 #cell_12e144f2 {  }
